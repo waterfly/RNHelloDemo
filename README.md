@@ -97,7 +97,7 @@ RN采用的是Flex布局，可参考以下文档进行学习，可结合Demo进�
 - 官方文档翻译 [颜色](https://reactnative.cn/docs/0.46/colors.html#content)
 - 官方文档翻译 [样式](https://reactnative.cn/docs/0.46/style.html#content)
 - [CSS 参考手册](http://www.w3school.com.cn/cssref/index.asp) 用于查找对应的CSS详细定义
-- [RN Layout FlexBox.xmind](RN Layout FlexBox.xmind)
+- [RN Layout FlexBox.xmind](./RN Layout FlexBox.xmind)
 
 
 
